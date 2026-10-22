@@ -14,7 +14,7 @@ Compose UI is still a placeholder and the Android build is unverified locally.
 - P1: Render captions onto a Bitmap/Canvas with outlined text using `core` layouts; save via MediaStore.
 - P1: Bundle a small set of license-clear templates; allow picking a photo from the gallery.
 - P2: Compose UI tests (`androidx.compose.ui:ui-test-junit4`) for the main flow.
-- P2: Pin `distributionSha256Sum` in `gradle-wrapper.properties`.
+- ~~P2: Pin `distributionSha256Sum` in `gradle-wrapper.properties`.~~ Done 2026-10-22.
 
 ## Done in this pass (pass 1)
 
